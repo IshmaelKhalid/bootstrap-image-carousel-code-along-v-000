@@ -1,6 +1,6 @@
 # Exceptional Realty Website (Bootstrapped Version)
 
-This is an example website using Twitter Bootstrap version 3 Framework.
+This is an example website using Twitter Bootstrap version 3 Framework!
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/o5UCDvaNLd8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
